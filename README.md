@@ -11,8 +11,7 @@ You will need to download an emulator (Stella or Javatari) to run any of the ROM
   `sudo apt-get install stella`
   
   MacOS: </br>
-  `brew install stella` </br>
-  `brew link stella`
+  `brew install stella && brew link stella`
   
 You will also need to download the DASM assembler over at https://dasm-assembler.github.io/ to translate the asm files to machine code.
   
