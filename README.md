@@ -3,7 +3,7 @@ Exploratory projects for the Atari written in Assembly for the 6502 processor.
 
 ## Requirements:
 
-You will need to download an emulator (Stella or Javatari) to run any of the ROMs.
+You will need to need an emulator to run any of the ROMs:
 
 - Stella installation
 
