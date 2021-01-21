@@ -13,6 +13,8 @@ You will need to download an emulator (Stella or Javatari) to run any of the ROM
   MacOS: </br>
   `brew install stella && brew link stella`
   
+- Javatari (https://javatari.org) is a browser-based alternative with no downloads required. Might be more preferable on Windows machines.
+  
 You will also need to download the DASM assembler over at https://dasm-assembler.github.io/ to translate the asm files to machine code.
   
 To run any of the programs, navigate to the program's directory and run `make`. This will generate the cartridge binary file (`cart.bin`) for you to run in the emulator.
