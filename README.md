@@ -19,7 +19,7 @@ You will need to need an emulator to run any of the ROMs:
   
 You will also need to download the DASM assembler over at https://dasm-assembler.github.io/ to translate the asm files to machine code.
   
-To run any of the programs, navigate to the program's directory and run `make`. This will generate the cartridge binary file (`cart.bin`) for you to run in the emulator.
+To run any of the programs, navigate to the program's directory and run `make`. This will generate the cartridge binary file (`cart.bin`) for you to run in the emulator (Stella/Javatari).
 
 ## Images:
 
